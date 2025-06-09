@@ -59,10 +59,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/betsykeldhose">
+  <a href="https://github.com/BetsyEldhose">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/betsyeldhose-3a6487265">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
