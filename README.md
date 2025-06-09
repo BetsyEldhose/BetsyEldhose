@@ -3,53 +3,52 @@
 
 ---
 
-🌟 Welcome to my world of code! I'm a tech enthusiast with a deep curiosity for learning new technologies and using them to develop creative and impactful projects.
+🌟 Welcome to my world of code! I'm an IT engineer with a deep curiosity for learning new technologies and building creative, impactful projects.
 
 ---
 
 ### 💬 About Me
-- 🎓 I'm an IT Engineer with a love for learning and creating
-- 💻 I’m proficient in **C**, **Java**, **Python**, **JavaScript**, and **Flutter**
-- 🧠 I enjoy exploring advancements in technology and software development
-- 🎨 I strive to build **aesthetically pleasing** apps and websites that not only *function well* but also inspire users — even those new to tech
-- 🔭 I'm currently working on some exciting projects involving **UI/UX**, **web** and **mobile app development**
-- 🌱 Always open to collaborating and contributing to open source
+- 🎓 I'm an IT Engineer who thrives on solving problems and building meaningful software
+- 💻 I’m proficient in **C**, **Python**, **Java**, **JavaScript**, **HTML**, **CSS**, **Flutter**, and **MySQL**
+- 🧠 I love exploring new advancements in technology and applying them in real-world projects
+- 🎨 My goal is to create **visually engaging applications** that make even non-tech users interested in learning about development
+- 🔭 Currently focusing on building responsive websites and cross-platform apps
+- 🤝 Open to collaboration, learning, and contributing to open source
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
-| Languages & Tools | Technologies |
-|-------------------|--------------|
-| ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 💻 Programming Languages | 🌐 Web & UI | 📱 Mobile | 🗄️ Database |
+|-------------------------|------------|-----------|--------------|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-%23FFB6C1?style=for-the-badge) |
 
 ---
 
-### 🌐 Let's Connect
+### 📌 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
 ---
 
-### ✨ Quote I Live By
+### ✨ Motto
 
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="45%" />
-</p>
+> *"The best way to predict the future is to create it."* — Alan Kay
 
 ---
 
 🚀 *Always building. Always learning. Always growing.*
+
 
              
 
