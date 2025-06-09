@@ -52,9 +52,8 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BetsyEldhose&theme=discord&column=7&margin-w=10&margin-h=15" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Betsyeldhose&theme=dracula&column=6&margin-w=10&margin-h=15" />
+
 
 
 ---
