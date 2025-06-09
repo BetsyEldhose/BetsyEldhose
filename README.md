@@ -56,18 +56,6 @@
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/BetsyEldhose">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://in.linkedin.com/in/BetsyEldhose-3a6487265">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 💬 Quote I Live By
 
@@ -75,11 +63,6 @@
 
 ---
 
-### 🧩 Fun Fact
-
-💡 I’m on a mission to make tech **look so good** and **work so smoothly** that even people who never thought they liked coding will fall in love with it.
-
----
 
 ### 🔗 Check back soon — More Projects & Magic Loading... 🚧
 
