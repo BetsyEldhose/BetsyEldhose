@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=betsykeldhose&theme=discord&column=7&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BetsyEldhose&theme=discord&column=7&margin-w=10&margin-h=15" />
 </p>
 
 
