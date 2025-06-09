@@ -40,6 +40,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-%23FF69B4?style=for-the-badge)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,flutter,dart,mysql" />
+</p>
+
+
 
 ### 📊 GitHub Stats
 
