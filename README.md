@@ -12,11 +12,11 @@
 
 🌟 Welcome to my corner of the internet! I'm an enthusiastic IT Engineer who’s always ready to explore, build, and innovate. Whether it’s designing beautiful interfaces or solving backend logic puzzles, I find joy in creating software that’s useful, inspiring, and fun.
 
-- 🔭 I'm currently learning advanced Flutter and full-stack web development
-- 💡 I love using **tech to solve real-world problems**
-- 💻 I enjoy coding in **C**, **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **Flutter**
-- 🎯 I’m passionate about **UI/UX**, **clean code**, and **intuitive design**
-- 🌍 I believe technology can empower people in ways we’ve only begun to imagine
+- 🎨 I'm passionate about **UI/UX design** and love crafting visually appealing interfaces  
+- 💡 I enjoy using technology to solve real-world problems and create better digital experiences  
+- 💻 I love coding in **C**, **Java**, **Python**, **JavaScript**, **HTML/CSS**, and **Flutter**  
+- 🌍 I believe technology can empower people in ways we’ve only begun to imagine  
+
 
 ---
 
@@ -40,21 +40,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-%23FF69B4?style=for-the-badge)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,flutter,dart,mysql" />
-</p>
 
 
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=betsykeldhose&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=betsykeldhose&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BetsyEldhose&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BetsyEldhose&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=betsykeldhose&theme=radical&row=1&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BetsyEldhose&theme=radical&row=1&no-bg=true" />
 </p>
 
 ---
