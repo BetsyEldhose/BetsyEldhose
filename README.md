@@ -50,9 +50,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BetsyEldhose&theme=tokyonight" width="48%" />
 </p>
 
+
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BetsyEldhose&theme=radical&row=1&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=betsykeldhose&theme=discord&column=7&margin-w=10&margin-h=15" />
 </p>
+
 
 ---
 
