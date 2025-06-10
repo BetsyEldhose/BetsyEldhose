@@ -59,11 +59,7 @@
 ---
 
 
-### 💬 Quote I Live By
 
-> *"The best way to predict the future is to create it."* — Alan Kay
-
----
 
 
 ### 🔗 Check back soon — More Projects & Magic Loading... 🚧
